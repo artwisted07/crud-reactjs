@@ -1,0 +1,46 @@
+html,body{
+  height: 100%;
+}
+
+body{
+  background: url('http://www.therockbar.co.nz/Images/fullbg_r.jpg') top center no-repeat;
+  background-size: cover;
+}
+
+#mainContainer{
+  height: 100%;
+  margin-top: .5em;
+}
+
+
+h1,h2,h3,h4,h5,p{
+  color:#fff!important;
+}
+
+
+
+
+span.post-single-buttons{
+  display: block;
+  border-bottom: 1px solid #fff;
+  padding-bottom: .6em;
+}
+
+
+
+
+
+
+
+
+form{
+  margin-bottom: 1em;
+}
+form .btn{
+  margin-left: .5em;
+  margin-top: .5em;
+}
+
+form label{
+  color:#fff;
+}
